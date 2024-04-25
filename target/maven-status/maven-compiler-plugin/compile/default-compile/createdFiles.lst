@@ -1,0 +1,5 @@
+br\com\agenda\model\agenda\resources\JakartaEE10Resource.class
+model\JavaBeans.class
+br\com\agenda\model\agenda\JakartaRestConfiguration.class
+controller\Controller.class
+model\DAO.class
